@@ -1,0 +1,130 @@
+﻿* {
+    margin:0;
+    padding:0;
+}
+
+article {
+    position:relative;
+    left:30%;
+}
+/* 상품 구매 정보(상품 제목, 판매가, 제조사, 가격 등)  */
+section#right #summary h3 {
+    font-size:16px;
+    padding-bottom:8px;
+    border-bottom:solid 3px #c1c1c1;
+    
+}
+section#right #summary h3 span {
+    color:#0000ff;
+}
+section#right #summary1 {
+    float:left;
+    margin-top:20px;
+}
+
+section#right #summary1 .buttons {
+    text-align:center;
+    margin-top:10px;
+}
+section#right #summary2 {
+    width:390px;
+    margin : 50px 0px 200px 400px;
+    
+
+}
+
+section#right #summary2 .item {
+    margin:20px 0 0 20px;
+    padding-bottom:20px;
+    
+}
+section#right #summary2 .item li {
+    margin:10px 0 0 0; 
+    float:right;
+
+}
+section#right #summary2 .col1 {
+    width:100px;
+    float:left;
+}
+section#right #summary2 .col2 {
+    width:200px;
+    float:left;
+}
+section#right #summary2 .size {
+    margin:20px 0 0 20px;
+    padding-bottom:10px;
+}
+section#right #summary2 .size li {
+    margin:5px 0; 
+}
+section#right #summary2 .buttons {
+    margin:15px 0 0 120px;
+}
+section#right #summary2 .buttons li {
+    display:inline;
+}
+/* 상품 설명 */
+section#right #explanation h3 {
+    font-size:30px;
+    padding-bottom:20px;
+    margin-top:20px;	
+    color:#444444;
+}
+section#right #explanation h2 {
+    margin:20px 0 0 20px;
+}
+section#right #explanation_box {
+    width:820px;
+    height:430px;
+    margin:20px 0 0 20px;
+    border:solid 1px #666666;
+    border-top:solid 4px #666666;
+    background-color:#ffffff;
+}
+section#right #explanation_box ul {
+    padding:30px 0 0 20px;
+    font-size:14px;
+}
+section#right #explanation_box li {
+    width:670px;
+    padding:8px;	
+}
+section#right #explanation_box .col1 {
+    display:block;
+    width:100px;
+    font-weight:bold;
+}
+section#right #explanation_box .col2 {
+    float:left;
+}
+section#right #explanation_box .col2 span {
+    color:#0000ff;
+    font-weight:bold;
+}
+section#right #required h3 {
+    font-size:16px;
+    padding-bottom:8px;
+    margin-top:30px;
+    border-bottom:solid 1px #444444;
+    width:870px;
+    color:#c1c1c1;	
+}
+section#right #required dl {
+    margin:20px 0 80px 30px;
+}
+section#right #required dt {
+    font-size:14px;
+    font-weight:bold;
+    margin-top:20px;
+}
+section#right #required dd {
+    font-size:13px;
+    margin:5px 0 0 20px;
+}
+#summery2 {
+ float:right;
+}
+hr {
+    width:390px;
+}

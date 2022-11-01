@@ -1,0 +1,22 @@
+﻿h1 {
+    text-align:center;
+}
+.register-color {
+    background-image: url('style/images/register-window-size.png');
+    margin:auto;
+    width:700px;
+    padding: 50px 50px 100px 50px;
+    height:5px;
+
+
+}
+.register-botton {
+    margin: auto;
+    width: 100px;
+    height: 50px;
+    text-align:center;
+    position:relative;
+    cursor:pointer;
+    border-radius: 30px;
+
+}
